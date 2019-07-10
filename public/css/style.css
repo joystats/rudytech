@@ -1,0 +1,14 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family:'tahoma';
+	font-size:'medium'
+}
+#container{
+	padding:20px;
+}
+img{border:2px solid #333;}
+#map {
+	height: 100%;
+}

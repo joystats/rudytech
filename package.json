@@ -1,0 +1,19 @@
+{
+  "name": "rudy",
+  "version": "1.0.0",
+  "description": "for rudy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k-line",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  }
+}
